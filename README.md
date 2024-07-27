@@ -9,14 +9,15 @@
 [![GitHub Forks](https://img.shields.io/github/forks/Th3Tr1ckst3r/OpenThreatMap)](https://github.com/Th3Tr1ckst3r/OpenThreatMap/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/Th3Tr1ckst3r/OpenThreatMap)](https://github.com/Th3Tr1ckst3r/OpenThreatMap/issues)
 
-A cross-platform, open source powered, real-time cyber threat radar web app with advanced capabilities, & search
+A cross-platform, OSINT(open-source intelligence) & open source powered, real-time cyber threat radar web app with advanced capabilities, & search
 queries.
 
 ## About
 
-Without going into too much detail, Open Threat Map is a cross-platform, open source powered, real-time cyber threat radar web app with advanced capabilities, & search
-queries. It has its own dedicated data pipeline to make false positives, & duplicate results across intelligence feeds a thing of the past. OTX Alienvault is also available
-as our primary integration for ensuring what data we find is up-to-date, & as accurate as possible.
+Without going into too much detail, Open Threat Map is a cross-platform, OSINT(open-source intelligence) & open source powered, real-time cyber threat 
+radar web app with advanced capabilities, & search queries. It has its own dedicated data pipeline to make false positives, & duplicate results across 
+intelligence feeds a thing of the past. OTX Alienvault is also available as our primary integration for ensuring what data we find is up-to-date, 
+& as accurate as possible.
 
 ## Why Use Open Threat Map?
 
