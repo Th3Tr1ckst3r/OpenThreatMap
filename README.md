@@ -33,7 +33,7 @@ network.
 ## Screenshots
 
 This is the UI of Open Threat Map. You have several customization options, 
-but by default we provide a light mode, & dark mode to start:
+but by default we provide a light theme, & dark theme to start:
 
 ![Open_Threat_Map_UI](https://i.imgur.com/FUwhFsW.png)
 
