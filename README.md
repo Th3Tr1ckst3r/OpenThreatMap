@@ -34,11 +34,11 @@ network.
 This is the UI of Open Threat Map. You have several customization options, 
 but by default we provide a light mode, & dark mode to start:
 
-![Open_Threat_Map_UI](https://i.imgur.com/2gvqRJs.png)
+![Open_Threat_Map_UI](https://i.imgur.com/FUwhFsW.png)
 
 Demonstration of Open Threat Map:
 
-![Open_Threat_Map_Demo](https://i.imgur.com/Ho3Fxan.png)
+![Open_Threat_Map_Demo]()
 
 ## Installation Notice
 
