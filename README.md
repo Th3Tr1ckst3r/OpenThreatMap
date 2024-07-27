@@ -26,94 +26,91 @@ network.
 
 ## Features
 
-- Find full matching images, partial matching images, similar matching images, and more.
-- Download results to a local directory of your own choice.
-- See data in multiple formats: JSON, XML, RAW(dictionary), and Pretty(Readable Output).
-- Utilize the builtin functionality of Python3's multiprocessing library to download images at blazing fast speeds.
-- Choose the number of processes you think your system can handle for even faster multiprocessing functionality.
-- Run builtin facial recognition against your results to see, if any, are the same person with the [face_recognition](https://pypi.org/project/face-recognition/) library.
-- Even restrict your own query searches to do normal Google searches when necessary, all under one hood.
+- Lorem Ipsum [sample](https://www.example.com/).
+
 
 ## Screenshots
 
-This is the command line(CLI) interface.
+This is the UI of Open Threat Map. You have several customization options, 
+but by default we provide a light mode, & dark mode to start:
 
-![GReverse_CLI](https://i.imgur.com/2gvqRJs.png)
+![Open_Threat_Map_UI](https://i.imgur.com/2gvqRJs.png)
 
-Demonstration of GReverse with facial recognition enabled.
+Demonstration of Open Threat Map:
 
-![Facial_Recognition_Demo](https://i.imgur.com/Ho3Fxan.png)
+![Open_Threat_Map_Demo](https://i.imgur.com/Ho3Fxan.png)
 
 ## Installation Notice
 
-GReverse uses Python3 natively, so you will need to have it installed before proceeding. Once you have done that follow
+Open Threat Map uses Python3 natively, so you will need to have the latest version installed before proceeding. Once you have done that follow
 the steps below.
 
 ## Required Libraries Install Guide
 
-To use GReverse, the following Python3 libraries will need to be installed. You can install them using the Python package manager `pip`.
-Below are the installation instructions for each library:
+To use Open Threat Map, the following Python3 libraries will need to be installed. You can install them using the Python package manager `pip`.
+Its always recommended to use a virtual environment, but that aside below are the installation instructions for each library:
 
-1. **Google API Client Library (googleapiclient)**
+1. **Geopy (geopy)**
 
-    You can install the Google API Client Library using `pip`:
+    Install the Geopy library using `pip`:
     
     ```bash
-    pip install google-api-python-client
+    pip install geopy
     ```
 
-2. **Google Cloud Vision (google-cloud-vision)**
+2. **Flask (flask)**
 
-    Install the Google Cloud Vision client library using `pip`:
+    You can install the Flask library using `pip`:
     
     ```bash
-    pip install google-cloud-vision
+    pip install Flask
     ```
 
-3. **Protocol Buffers (google.protobuf)**
+3. **LMDB (lmdb)**
 
-    You can install the Protocol Buffers library using `pip`:
+    Install the LMDB library using `pip`:
     
     ```bash
-    pip install protobuf
+    pip install lmdb
     ```
 
-4. **Face Recognition (face_recognition)**
+4. **Requests (requests)**
 
-    Install the Face Recognition library using `pip`:
+    Install the Requests library using `pip`:
     
     ```bash
-    pip install face_recognition
+    pip install requests
     ```
 
-5. **TQDM (tqdm)**
+5. **DNS Resolver (dnspython)**
 
-    You can install the TQDM library using `pip`:
+    Install the DNS Resolver library using `pip`:
+    
+    ```bash
+    pip install dnspython
+    ```
+
+6. **GeoIP2 (geoip2)**
+
+    Install the GeoIP2 library using `pip`:
+    
+    ```bash
+    pip install geoip2
+    ```
+
+7. **TQDM (tqdm)**
+
+    Install the TQDM library using `pip`:
     
     ```bash
     pip install tqdm
-    ```
-
-6. **Dict2XML (dict2xml)**
-
-    Install the Dict2XML library using `pip`:
-    
-    ```bash
-    pip install dict2xml
     ```
 
 With these libraries installed, you can proceed to the next step which is configurations.
 
 ## Configurations
 
-To properly configure your Google Python3 installation, follow the guides below:
-
-[Python3_Google_Quickstart_Guide](https://developers.google.com/docs/api/quickstart/python)
-
-Its recommended to have two programmable custom search engines. One configured for images only, and the other for links only.
-You will also need to add both search engine ID's to the creds.py file located in the api_creds folder.
-
-[Python3_Custom_Search_Guide](https://developers.google.com/custom-search/docs/overview)
+To properly configure your Open Threat Map, we will soon release a documentation page.
 
 <a name="Contributors"></a>
 ## Contributors
