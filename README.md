@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/9DY6EiM.png" alt="OpenThreatMap Logo" width="300">
+  <img src="/images/Logo.png" alt="OpenThreatMap Logo" width="300">
 </p>
 
 # Open Threat Map
