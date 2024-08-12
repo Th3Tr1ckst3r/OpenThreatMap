@@ -99,14 +99,6 @@ Its always recommended to use a virtual environment, but that aside below are th
     pip install geoip2
     ```
 
-7. **TQDM (tqdm)**
-
-    Install the TQDM library using `pip`:
-    
-    ```bash
-    pip install tqdm
-    ```
-
 With these libraries installed, you can proceed to the next step which is configurations.
 
 ## Configurations
