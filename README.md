@@ -16,8 +16,7 @@ queries.
 
 Without going into too much detail, Open Threat Map is a cross-platform, OSINT(open-source intelligence) & open source powered, real-time cyber threat 
 radar web app with advanced capabilities, & search queries. It has its own dedicated data pipeline to make false positives, & duplicate results across 
-intelligence feeds a thing of the past. OTX Alienvault is also available as our primary integration for ensuring what data we find is up-to-date, 
-& as accurate as possible.
+intelligence feeds a thing of the past.
 
 ## Why Use Open Threat Map?
 
