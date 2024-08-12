@@ -20,9 +20,9 @@ intelligence feeds a thing of the past.
 
 ## Why Use Open Threat Map?
 
-Wether your a student, security researcher, IT professional, or just someone that loves open-source. Open Threat Map is many things like a traditional framework, with
-its own data pipeline, & long list of features. Making it a very valuable tool for anyone that would like to see beyond just the scope of your own network, or your companies
-network.
+Wether your a student, security researcher, IT professional, threat hunter, or just someone that loves open-source. Open Threat Map is a geolocation OSINT framework/web app, with its own data pipeline, & multiple integrations for data enrichment. Making it a very valuable tool for anyone that would like to see beyond just the scope of your own network, or your companies network. 
+
+It's also just as great for research, & discovery of various cyber threats with various integrations that allow for quick elimination of false positives.
 
 ## Features
 
